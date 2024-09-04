@@ -1,7 +1,0 @@
-1. Basic theory, SDLC, STLC
-2. Client-server architecture
-3. HTTP requests
-4. HTTP status codes
-5. Structure of HTTP request and rsponse
-6. JSON, XML, their structure
-7. API testing via Postman , JS, API autotests
